@@ -3,6 +3,7 @@ CHANGELOG
   1.0.4 -> 1.0.5
     - Relaxed template-haskell dependency constraint for GHC 7.4
     - Relaxed transformers dependency constraint
+    (thanks to Claude Heiland-Allen)
 
   1.0.3 -> 1.0.4
     - Bugfix to compile on GHC 6.12 again.

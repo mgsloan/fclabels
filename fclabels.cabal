@@ -22,6 +22,7 @@ Description:   This package provides first class labels that can act as
                > 1.0.4 -> 1.0.5
                >   - Relaxed template-haskell dependency constraint for GHC 7.4
                >   - Relaxed transformers dependency constraint
+               >   (thanks to Claude Heiland-Allen)
 Maintainer:    Sebastiaan Visser <code@fvisser.nl>
 License:       BSD3
 License-File:  LICENCE
